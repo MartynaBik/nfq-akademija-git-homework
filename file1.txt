@@ -1,0 +1,8 @@
+Distributed
+One of the nicest features of any Distributed SCM, Git included, is that it's distributed.
+This means that instead of doing a "checkout" of the current tip of the source code, you do a "clone" of the entire repository.
+
+Multiple Backups
+This means that even if you're using a centralized workflow, every user essentially has a full backup of the main server.
+Each of these copies could be pushed up to replace the main server in the event of a crash or corruption.
+In effect, there is no single point of failure with Git unless there is only a single copy of the repository.
