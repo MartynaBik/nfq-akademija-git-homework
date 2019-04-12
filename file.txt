@@ -1,0 +1,4 @@
+About GIT
+
+The Git feature that really makes it stand apart from nearly every other SCM out there is its branching model.
+
