@@ -2,3 +2,6 @@ About GIT
 
 The Git feature that really makes it stand apart from nearly every other SCM out there is its branching model.
 
+Frictionless Context Switching. Create a branch to try out an idea, commit a few times,
+switch back to where you branched from, apply a patch, switch back to where you are experimenting, and merge it in.
+
