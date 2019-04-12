@@ -1,3 +1,7 @@
 Staging Area
 Unlike the other systems, Git has something called the "staging area" or "index".
 giThis is an intermediate area where commits can be formatted and reviewed before completing the commit.
+
+One thing that sets Git apart from other tools is that it's possible to quickly stage some of your
+files and commit them without committing all of the other modified files in your working directory or having to
+list them on the command line during the commit.
