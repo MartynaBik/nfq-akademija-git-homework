@@ -13,3 +13,7 @@ back and forth between them, then delete each branch when that feature gets merg
 
 Disposable Experimentation. Create a branch to experiment in, realize it's not going to work,
 and just delete it - abandoning the work—with nobody else ever seeing it (even if you've pushed other branches in the meantime).
+
+Notably, when you push to a remote repository, you do not have to push all of your branches.
+You can choose to share just one of your branches, a few of them, or all of them. This tends to free people
+to try new ideas without worrying about having to plan how and when they are going to merge it in or share it with others.
